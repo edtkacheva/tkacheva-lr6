@@ -1,0 +1,10 @@
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\bin\Debug\tkacheva-lr6.exe.config
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\bin\Debug\tkacheva-lr6.exe
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\bin\Debug\tkacheva-lr6.pdb
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva-lr6.csproj.AssemblyReference.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva_lr6.Form1.resources
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva_lr6.Properties.Resources.resources
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva-lr6.csproj.GenerateResource.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva-lr6.csproj.CoreCompileInputs.cache
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva-lr6.exe
+C:\Users\katuha\Documents\files\study\5sem\tkacheva-lr6\tkacheva-lr6\obj\Debug\tkacheva-lr6.pdb
